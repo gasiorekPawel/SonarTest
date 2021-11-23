@@ -11,6 +11,7 @@ public class TestClass {
         int unusedVariable = 111;
         methodOne("aa");
         methodTwo("aa");
+
         System.out.println(textExample);
     }
 
