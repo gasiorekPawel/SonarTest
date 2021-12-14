@@ -6,4 +6,5 @@ public class Ops {
     String aaa2 = "aaa";
     String aaa3 = "aaa";
     String aaa4 = "aaa";
+    String password = "/home/docs";
 }
