@@ -8,6 +8,7 @@ public class TestClass {
     public static void main(String[] args) {
         String textExample = "aaaa";
         String textExample1 = "aaaa";
+        String textExample2 = "aaaa";
 
         int unusedVariable = 111;
         methodOne("aa");
